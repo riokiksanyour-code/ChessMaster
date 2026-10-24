@@ -1,0 +1,4 @@
+Stockfish.js 19, copyright 2026 Chess.com LLC. GPLv3.
+Código fuente del motor: https://github.com/nmrugg/stockfish.js
+Stockfish original: https://github.com/official-stockfish/Stockfish
+Al distribuir una app que incorpora código GPLv3, debes cumplir sus condiciones de licencia y distribución de código fuente.
